@@ -3,7 +3,7 @@
 
 > A lightweight and fun Chrome extension that uses OpenAI’s LLM to answer questions, summarize pages, generate quizzes, and extract key points from the website you're currently viewing.
 
-![1748612926978](image/README/1748612926978.png)
+![1748612926978](1.png)
 
 ## What It Does
 
@@ -37,7 +37,7 @@ To run it locally:
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/badarkhannn/ai-page-insights-extension.git
+   git clone repo
    ```
 2. Go to `chrome://extensions/` in your browser.
 3. Enable **Developer mode**.
@@ -45,11 +45,11 @@ To run it locally:
 
 ## Demo
 
-![1748613029076](image/README/1748613029076.png)
+![1748613029076](2.png)
 
 ###### Ask Question
 
-![1748613088676](image/README/1748613088676.png)
+![1748613088676](3.png)
 
 **Example Use Cases:**
 
@@ -67,4 +67,4 @@ This project was built just for fun and experimentation. It’s not fully functi
 
 This project is open-source and available under the MIT License.
 
-Made with ❤️ by [Badar Khan](https://www.linkedin.com/in/badarkhannn/)
+Made with ❤️ by [Jawad Ali](https://www.linkedin.com/in/jawad-ali-yousafzai-742a76356/)
